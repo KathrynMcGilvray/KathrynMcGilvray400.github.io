@@ -1,0 +1,259 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.kathryn_mcgilvray400" resolutions="1x" timestamp="1506897158682">
+  <folder name="css">
+    <file name="site_global.css" crc="252281630"/>
+    <file name="master_master.css" crc="431479528" ref="about:reviews:services:index:service-details:contact"/>
+    <file name="nomq_preview_master_master.css" crc="504091705" ref="about:reviews:services:index:service-details:contact"/>
+    <file name="about.css" crc="4164337012" ref="about"/>
+    <file name="nomq_about.css" crc="13036406" ref="about"/>
+    <file name="reviews.css" crc="497900067" ref="reviews"/>
+    <file name="nomq_reviews.css" crc="4257670960" ref="reviews"/>
+    <file name="services.css" crc="178390299" ref="services"/>
+    <file name="nomq_services.css" crc="3847682462" ref="services"/>
+    <file name="index.css" crc="3912139114" ref="index"/>
+    <file name="nomq_index.css" crc="3849067893" ref="index"/>
+    <file name="service-details.css" crc="3925023817" ref="service-details"/>
+    <file name="nomq_service-details.css" crc="485526431" ref="service-details"/>
+    <file name="contact.css" crc="3908549095" ref="contact"/>
+    <file name="nomq_contact.css" crc="308425687" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:about:reviews:contact:service-details"/>
+    <file name="museutils.js" crc="17924269" ref="index:services:about:reviews:contact:service-details"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:about:reviews:contact:service-details"/>
+    <file name="museconfig.js" crc="278381782" ref="index:services:about:reviews:contact:service-details"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:services:about:reviews:service-details"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:services:about:reviews:contact:service-details"/>
+    <file name="webpro.js" crc="416662029" ref="index:services:about:reviews:contact:service-details"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index:services:about:reviews:contact:service-details"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:services:about:reviews:contact:service-details"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:services:about:reviews:contact:service-details"/>
+    <file name="require.js" crc="3861931657" ref="index:services:about:reviews:contact:service-details"/>
+  </folder>
+  <folder name="images">
+    <file name="e in elearning.png" crc="3990403945" seo="true" ref="index:services:about:reviews:contact:service-details">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="service-details" alt=""/>
+      <caption webpage="service-details" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="elearning5.jpg" crc="313029792" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico-spike-down.png" crc="4209736183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="training logo graphic 2.png" crc="3853198620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse-1-and-head.gif" crc="86513660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobestock_102893249--converted-.gif" crc="4289052403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="possibilties 3.jpg" crc="293187208" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info.png" crc="73142111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="courses.png" crc="4216625557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact.gif" crc="168769871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social-sprite-fb.svg" crc="233685845" ref="index"/>
+    <file name="social-sprite-fb_poster_u24119.png" crc="150215521" ref="index"/>
+    <file name="social-sprite-ig.svg" crc="4266988159" ref="index"/>
+    <file name="social-sprite-ig_poster_u24127.png" crc="42081341" ref="index"/>
+    <file name="social-sprite-pin.svg" crc="500471840" ref="index"/>
+    <file name="social-sprite-pin_poster_u24135.png" crc="4137608290" ref="index"/>
+    <file name="social-sprite-tw.svg" crc="458224745" ref="index"/>
+    <file name="social-sprite-tw_poster_u24143.png" crc="3934253855" ref="index"/>
+    <file name="social-sprite-tumblr.svg" crc="271682285" ref="index"/>
+    <file name="social-sprite-tumblr_poster_u24151.png" crc="196421269" ref="index"/>
+    <file name="elearning5-u1784-fr.jpg" crc="4080601599" ref="index"/>
+    <file name="elearning5-u1784-fr2.jpg" crc="3828485649" ref="index"/>
+    <file name="training logo graphic 256x54.png" crc="146221222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elearning5-u1784-fr3.jpg" crc="4024680234" ref="index"/>
+    <file name="elearning5-u1784-fr4.jpg" crc="4258260011" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:services:about:reviews:contact:service-details"/>
+    <file name="service-hero.jpg" crc="3940753606" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service-img1.jpg" crc="335410627" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service-img2.jpg" crc="202799737" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service-img3.jpg" crc="397556316" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="tile_soft_bg.jpg" crc="3952440508" ref="services:about:reviews:contact:service-details">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="service-details" alt=""/>
+      <caption webpage="service-details" alt=""/>
+      <caption webpage="service-details" alt=""/>
+      <caption webpage="service-details" alt=""/>
+      <caption webpage="service-details" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="service-img4.jpg" crc="335410627" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service-img5.jpg" crc="3875737316" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service-img6.jpg" crc="4038069019" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service-hero-u14425-fr.jpg" crc="461230319" ref="services"/>
+    <file name="service-hero-u14425-fr2.jpg" crc="4078607698" ref="services"/>
+    <file name="service-hero-u14425-fr3.jpg" crc="3863014562" ref="services"/>
+    <file name="service-hero-u14425-fr4.jpg" crc="4040394266" ref="services"/>
+    <file name="bigstock--125641424.jpg" crc="4153009963" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="kathryn_smallthumbnail2017.jpg" crc="3882051705" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="collaborate 2.png" crc="4039729774" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bigstock--125641424-u15037-fr.jpg" crc="4194039265" ref="about"/>
+    <file name="reviews-hero.jpg" crc="22802880" ref="reviews">
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+    </file>
+    <file name="review-img1.jpg" crc="4182644395" seo="true" ref="reviews">
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+    </file>
+    <file name="review-img2.jpg" crc="488878045" seo="true" ref="reviews">
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+    </file>
+    <file name="review-img3.jpg" crc="4203958566" seo="true" ref="reviews">
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+    </file>
+    <file name="review-img4.jpg" crc="131215244" seo="true" ref="reviews">
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+      <caption webpage="reviews" alt=""/>
+    </file>
+    <file name="reviews-hero-u15218-fr.jpg" crc="3961497709" ref="reviews"/>
+    <file name="reviews-hero-u15218-fr2.jpg" crc="4048747844" ref="reviews"/>
+    <file name="reviews-hero-u15218-fr3.jpg" crc="201322101" ref="reviews"/>
+    <file name="services-details-hero.jpg" crc="101058144" ref="service-details">
+      <caption webpage="service-details" alt=""/>
+    </file>
+    <file name="services-details-hero-u16804-fr.jpg" crc="48611391" ref="service-details"/>
+    <file name="services-details-hero-u16804-fr2.jpg" crc="270869156" ref="service-details"/>
+    <file name="services-details-hero-u16804-fr3.jpg" crc="4250575869" ref="service-details"/>
+    <file name="services-details-hero-u16804-fr4.jpg" crc="108837052" ref="service-details"/>
+  </folder>
+  <file name="index.html" crc="3989142199" seo="true" mt="1506897123311" redirect="true"/>
+  <file name="services.html" crc="153386007" seo="true" mt="1506897120245" redirect="true"/>
+  <file name="about.html" crc="259312524" seo="true" mt="1506897123597" redirect="true"/>
+  <file name="reviews.html" crc="64909150" seo="true" mt="1506897119765" redirect="true"/>
+  <file name="contact.html" crc="4271233423" seo="true" mt="1506760285646" redirect="true"/>
+  <file name="service-details.html" crc="3884711887" seo="true" mt="1506897120909" redirect="true"/>
+</manifest>
